@@ -1,3 +1,3 @@
 # CTP-AI-ML
 <br>
-Author Adil Khan
+Author M.Adil Khan
